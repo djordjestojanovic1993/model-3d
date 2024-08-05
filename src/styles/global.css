@@ -1,0 +1,94 @@
+:root {
+  --Gray: #e7e7e7;
+  --Black: #121010;
+  --White: #fff;
+}
+
+.black-text {
+  color: var(--Black);
+}
+
+.flex-direction-row {
+  display: flex;
+}
+
+.flex-direction-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.radius-8 {
+  border-radius: 8px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-start {
+  align-items: start;
+}
+
+.items-end {
+  align-items: end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.gap-44 {
+  gap: 44px;
+}
+
+.gap-32 {
+  gap: 32px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+.gap-16 {
+  gap: 16px;
+}
+
+.gap-12 {
+  gap: 12px;
+}
+
+.gap-8 {
+  gap: 8px;
+}
+
+.font-22 {
+  font-size: 22px;
+}
+
+.font-16 {
+  font-size: 16px;
+}
+
+.weight-400 {
+  font-weight: 400;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.width-100 {
+  width: 100%;
+}
